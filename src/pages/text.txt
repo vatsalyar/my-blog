@@ -1,0 +1,47 @@
+My Learning Journey at the University of Windsor
+2025-05-20
+
+My Learning Journey at the University of Windsor
+Hello! 👋 I started this blog as a current student at the University of Windsor to share my experiences, difficulties, and all the knowledge I've gained during my academic career. I hope you'll find something helpful or relatable here, regardless of whether you're a prospective Lancer, a current student, or just inquisitive.
+
+Academic Insights
+Studying at the University of Windsor has opened many doors for me, especially in Computer Science. A few highlights include:
+
+Collaborative learning: Working with peers on group projects helped me understand teamwork in real-world settings.
+Hands-on experience: Courses like COMP-2140 (Language, Grammar and Translators) helped me build a parser, compiler and translator of my own.
+Professors who care: Many instructors, like Dr. C. I. Ezeife and Dr. Jianguo Lu, go above and beyond to help students grasp core concepts.
+If you're just starting, I’d recommend using W3Schools and MDN Web Docs as go-to resources for coding concepts and practice.
+
+Tools & Resources That Helped Me
+Here are some tools and websites I found extremely helpful:
+
+Notion is a lifesaver, it is the best tool for managing the hectic schedule.
+Visual Studio Code in my opinion is the best code editor for beginners.
+GitHub can be used for version control but codespaces is a boon if you code on multiple devices.
+YouTube for getting through the rough patches and difficult concepts.
+FreeCodeCamp and GeeksforGeeks for anything you want to learn related to tech.
+Lessons is Key
+Not everything goes perfectly and it's okay to not be okay! Here’s what I learned from some of my own mistakes:
+
+Just focus on the basics. I once lost hours debugging something that was clearly explained in the docs. Always check!
+Avoid delaying important tasks. This is a dear request to everyone, start planning and stop procrastinating. I lost 10% of my grade because I thought that i can finish the assignment an hour before the deadline.
+Asking for help isn't a sign of weakness. Professors and TAs are there to help, but you have to reach out. Do not keep struggling, be smart and take advice from the people who have already done the things you are finding hard.
+A Piece of Advice
+Start pursuing your plans. Even 30 minutes a day on a tough topic adds up. Just keep moving ahead and don't look back.
+Spend more time with like-minded people Talk, spend time or just be close to people who are like you and have similar goals. Because they can be the push in your low times when you don't feel like doing anything.
+Use campus resources. The Leddy Library, Writing Support Desk, and Career Services are fantastic and should be utilised for your research papers, assignment or any help you need.
+Balance is crucial. Life doesn't always have to be hard and heavy, take some time off - have fun, go on a trip with friends, play sports. Give some time to your mental well being as well.
+Blogs That Kept Me Moving
+While preparing my own blog, I came across a few other student blogs that were really helpful:
+
+The Coding Train Blog: Inspiring and beginner-friendly.
+Dev.to: A great platform where students and professionals alike share their learning journeys.
+Ali Abdaal’s Website: Although not specific to Windsor, his productivity and learning strategies are top-tier.
+Final Thoughts
+Creating this blog helped me reflect on how far I’ve come and what’s helped me along the way. I hope it gives you something useful or at least makes you feel a bit more confident in your own journey.
+
+Feel free to reach out or comment if you’ve got questions or just want to connect!
+
+Thanks for reading
+
+write HTML code with best, appropriate blog styling in tailwind
