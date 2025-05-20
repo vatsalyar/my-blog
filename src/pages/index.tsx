@@ -61,9 +61,9 @@ export default function Home() {
           <h2 className="text-2xl font-semibold text-indigo-400 flex items-center gap-2">📚 Blogs That Kept Me Moving</h2>
           <p className="text-lg">While preparing my own blog, I came across a few other student blogs that were really helpful:</p>
           <ul className="list-disc pl-6 space-y-2 text-lg leading-relaxed">
-            <li><strong>The Coding Train Blog:</strong> <a href="https://thecodingtrain.com/" className="text-indigo-300 underline hover:text-indigo-200">Inspiring and beginner-friendly.</a></li>
-            <li><strong>Dev.to:</strong> <a href="https://dev.to/" className="text-indigo-300 underline hover:text-indigo-200">A great platform where students and professionals alike share their learning journeys.</a></li>
-            <li><strong>Ali Abdaal’s Website:</strong> <a href="https://aliabdaal.com/" className="text-indigo-300 underline hover:text-indigo-200">Although not specific to Windsor, his productivity and learning strategies are top-tier.</a></li>
+            <li><strong>The Coding Train Blog:</strong> <a href="https://thecodingtrain.com/" className="text-indigo-300 underline hover:text-indigo-200">This blog/website boosted my interest in coding and development</a></li>
+            <li><strong>Dev.to:</strong> <a href="https://dev.to/" className="text-indigo-300 underline hover:text-indigo-200">It is like reddit but for developers. You can discuss, post, comment and interact with posts that are all about our field. </a></li>
+            <li><strong>Ali Abdaal’s Website:</strong> <a href="https://aliabdaal.com/" className="text-indigo-300 underline hover:text-indigo-200">Although not specific to UWindsor, his productivity and learning strategies are top-tier and helped me increase my grades and confidence. </a></li>
           </ul>
         </section>
 
